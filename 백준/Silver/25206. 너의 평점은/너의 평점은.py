@@ -41,3 +41,6 @@ for j in range(len(list_grade)):
 result = numerator / credit_sum
 
 print("%.6f" % result)
+
+
+
